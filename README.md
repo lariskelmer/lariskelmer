@@ -101,7 +101,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:lariskelmer@gmail.com" target="_blank">
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src=https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg&style=for-the-badge&logo=gmail&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 </div>  
   
