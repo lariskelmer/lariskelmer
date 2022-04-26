@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Larissa, a full-time data scientist 👨‍💻 and researcher 🔎 with a lot to learn and a little to show for it.</div>  
+### <div align="center">I'm Larissa, a full-time data scientist 👨‍💻 and researcher 🔎 with a lot to learn and a little to show.</div>  
   
 
 
