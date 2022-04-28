@@ -15,13 +15,13 @@
 
 
 ###  I’m currently learning  
-- 🌱 Cloud Computing  
+- 🌱 Cloud Computing  - AWS, Azure
   
 
 - 🌱 Natural Language Processing  
   
 
-- 🌱 Data Science  
+- 🌱 Data Science    
   
 
 <br/>  
