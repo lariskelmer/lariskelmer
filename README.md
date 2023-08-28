@@ -7,7 +7,7 @@
 
 ### Work  
 - ⚙️ I’m currently an intern on Laboratory of Public Politics at Rio Grande do Norte (RN) State Public Ministry, a.k.a. [Ministério Público do RN](http://www.mprn.mp.br/), as Data Engineering.  
-- 👨‍💻 I’m currently an intern on Radix, (https://www.radixeng.com.br/), as Data Scientist - focusing on NLP.  
+- 👨‍💻 I’m currently an intern on [Radix](https://www.radixeng.com.br/), as Data Scientist - focusing on NLP.  
   
 
 
