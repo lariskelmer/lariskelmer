@@ -1,11 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I'm Larissa, a full-time data scientist 👨‍💻 and researcher 🔎 with a lot to learn and a little to show.</div>  
-  
-
+### <div align="center">I'm Larissa, trying to be a full-time data scientist 👨‍💻 and a NLP researcher 🔎 with a lot to learn and a little to show.</div>  
 
 
 ### Work  
