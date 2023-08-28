@@ -9,9 +9,9 @@
 
 
 ### Work  
-- 🔭 I’m currently an intern on Laboratory of Public Politics at Rio Grande do Norte (RN) State Public Ministry, a.k.a. [Ministério Público do RN](http://www.mprn.mp.br/).  
+- ⚙️ I’m currently an intern on Laboratory of Public Politics at Rio Grande do Norte (RN) State Public Ministry, a.k.a. [Ministério Público do RN](http://www.mprn.mp.br/), as Data Engineering.  
+- 👨‍💻 I’m currently an intern on Radix, (https://www.radixeng.com.br/), as Data Scientist - focusing on NLP.  
   
-
 
 
 ###  I’m currently learning  
@@ -70,7 +70,6 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
